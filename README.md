@@ -1,5 +1,3 @@
-Here's a comprehensive README.md file for your GitHub repository:
-
 # 🕰️ ChronoSuite - A Quantum Time Utility
 
 ![ChronoSuite Logo](assets/logo.png)
